@@ -1,14 +1,15 @@
+---
 name: tc_survey
 channels:
-  - conda-forge
-  - defaults
+    - conda-forge
+    - defaults
 dependencies:
-  - python=3.10
-  - pandas=1.5.1
-  - jupyterlab=3.4.4
-  - plotly=5.9.0
-  - ipywidgets=7.6.5
-  - python-kaleido=0.2.1
-  - pillow=9.2.0
-  - python-docx=0.8.11
-  - wordcloud=1.8.2.2
+    - python=3.10
+    - pandas=1.5.1
+    - jupyterlab=3.4.4
+    - plotly=5.9.0
+    - ipywidgets=7.6.5
+    - python-kaleido=0.2.1
+    - pillow=9.2.0
+    - python-docx=0.8.11
+    - wordcloud=1.8.2.2
