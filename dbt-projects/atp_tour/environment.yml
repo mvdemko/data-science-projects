@@ -1,0 +1,8 @@
+---
+name: atp-tour-dbt
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.10
+    - dbt-postgres=1.3.2

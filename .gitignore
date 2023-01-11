@@ -244,3 +244,5 @@ GitHub.sublime-settings
 *.png
 *.docx
 .pre-commit-config.yaml
+notes.md
+conda.gpg
