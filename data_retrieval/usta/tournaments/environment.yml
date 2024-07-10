@@ -1,0 +1,52 @@
+---
+name: tournaments
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - beautifulsoup4=4.12.3=py310hca03da5_0
+    - brotli-python=1.0.9=py310h313beb8_8
+    - bzip2=1.0.8=h80987f9_6
+    - ca-certificates=2024.3.11=hca03da5_0
+    - certifi=2024.7.4=py310hca03da5_0
+    - cffi=1.16.0=py310h80987f9_1
+    - cfgv=3.4.0=py310hca03da5_0
+    - charset-normalizer=2.0.4=pyhd3eb1b0_0
+    - click=8.1.7=py310hca03da5_0
+    - cryptography=42.0.5=py310hd4332d6_1
+    - distlib=0.3.8=py310hca03da5_0
+    - filelock=3.13.1=py310hca03da5_0
+    - identify=2.5.5=py310hca03da5_0
+    - idna=3.7=py310hca03da5_0
+    - libcxx=14.0.6=h848a8c0_0
+    - libffi=3.4.4=hca03da5_1
+    - ncurses=6.4=h313beb8_0
+    - nodeenv=1.7.0=py310hca03da5_0
+    - openssl=3.0.14=h80987f9_0
+    - packaging=24.1=py310hca03da5_0
+    - pip=24.0=py310hca03da5_0
+    - platformdirs=3.10.0=py310hca03da5_0
+    - pre-commit=3.4.0=py310hca03da5_1
+    - pycparser=2.21=pyhd3eb1b0_0
+    - pyopenssl=24.0.0=py310hca03da5_0
+    - pysocks=1.7.1=py310hca03da5_0
+    - python=3.10.14=hb885b13_1
+    - python-dotenv=0.21.0=py310hca03da5_0
+    - pyyaml=6.0.1=py310h80987f9_0
+    - readline=8.2=h1a28f6b_0
+    - requests=2.32.2=py310hca03da5_0
+    - selenium=3.141.0=py310h1a28f6b_1000
+    - setuptools=69.5.1=py310hca03da5_0
+    - soupsieve=2.5=py310hca03da5_0
+    - sqlite=3.45.3=h80987f9_0
+    - tk=8.6.14=h6ba3021_0
+    - tqdm=4.66.4=py310h33ce5c2_0
+    - tzdata=2024a=h04d1e81_0
+    - ukkonen=1.0.1=py310h525c30c_0
+    - urllib3=1.26.19=py310hca03da5_0
+    - virtualenv=20.26.1=py310hca03da5_0
+    - webdriver-manager=4.0.1=pyhd8ed1ab_0
+    - wheel=0.43.0=py310hca03da5_0
+    - xz=5.4.6=h80987f9_1
+    - yaml=0.2.5=h1a28f6b_0
+    - zlib=1.2.13=h18a0788_1
